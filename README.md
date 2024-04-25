@@ -11,7 +11,7 @@ Then in your system open the emoty folder and in terminal write
 git clone (link of the project).
 
 ## Use your API KEY
-The key used in this project is linked through my weather api account .One can use there api key if they want.
+The key used in this project is linked through my weather api account .One can use there api key for better results.
 
 
 ### `npm start`
